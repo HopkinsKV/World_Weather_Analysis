@@ -3,7 +3,8 @@ config.py
 API_practice.ipynb
 random_numbers.ipynb
 try-except.ipynb
-/Practice
+Practice/
+
 
 
 # Byte-compiled / optimized / DLL files
